@@ -26,7 +26,7 @@ In addition, there is a web app where messages can get classification in several
 - The file "disaster_categories.csv" has the classification labels of the messages. 
 - The python file is where the information is extract, transform, clean and load in a SQLite database. 
 
-3. models - This folder contains a python file "train_classifier.py" where is created a machine learning pipeline that uses NLTK, as well as scikit-learn's Pipeline and GridSearchCV to output a final model that uses the message column to predict classifications for 36 categories. Then the model was export to a picle file.
+3. models - This folder contains a python file "train_classifier.py" where is created a machine learning pipeline that uses NLTK, as well as scikit-learn's Pipeline and GridSearchCV to output a final model that uses the message column to predict classifications for 36 categories. Then the model was export to a pickle file.
 
 
 ## How to Run <a name="run"></a>
