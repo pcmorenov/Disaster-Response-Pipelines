@@ -10,5 +10,5 @@
 ## Project Motivation <a name="motivation"></a>
 
 In this project, it was carried out based on data from Figure Eight. 
-The main objective is build a model for an API that classifies disaster real messages.
+The main objective is build a model for an API that classifies disaster real messages, it was a machine learning 
 
